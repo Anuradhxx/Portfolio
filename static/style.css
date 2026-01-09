@@ -628,12 +628,12 @@ nav .nav-links a:hover {
 
 /* Left Image */
 
-/* .about-img {
-    flex: 0 0 auto;           
-} */
-
-
 .about-img {
+    flex: 0 0 auto;           
+}
+
+
+.about-img img {
     width: 340px;
     height: auto;
     border-radius: 18px;
